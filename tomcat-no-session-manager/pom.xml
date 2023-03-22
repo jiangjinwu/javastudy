@@ -14,7 +14,7 @@
 
     <properties>
         <project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
-        <tomcat.version>8.5.47</tomcat.version>
+        <tomcat.version>8.5.86</tomcat.version>
     </properties>
     <dependencies>
     <!-- https://mvnrepository.com/artifact/org.apache.tomcat/tomcat-catalina -->
